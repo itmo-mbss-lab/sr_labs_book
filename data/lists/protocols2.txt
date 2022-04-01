@@ -1,0 +1,1 @@
+https://www.robots.ox.ac.uk/~vgg/data/voxceleb/meta/vox2_meta.csv
