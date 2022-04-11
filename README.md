@@ -18,6 +18,6 @@ The project is related to the development of labs for the ITMO Speaker Recogniti
 - Laboratory work 4. Decision criteria and quality metrics.
 - Laboratory work 5. Adaptation and calibration of speaker recognition systems.
 
-Some ideas for creating of labs were borrowed from [here](https://github.com/clovaai/voxceleb_trainer).
+Some ideas for creating of labs were borrowed [here](https://github.com/clovaai/voxceleb_trainer).
 
 A draft description of these labs can be found [here](https://disk.yandex.ru/i/AVt262Pcirn3hg).
