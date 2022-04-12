@@ -18,6 +18,6 @@
 - Lab work 4. Decision criteria and quality metrics.
 - Lab work 5. Adaptation and calibration of speaker recognition systems.
 
-**Some ideas for creating of labs** were borrowed [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training a calibration model for a voice biometrics system).
+**Some ideas for creating of labs** were borrowed [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training of calibration model for voice biometrics system).
 
 **A draft description of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/AVt262Pcirn3hg). 
