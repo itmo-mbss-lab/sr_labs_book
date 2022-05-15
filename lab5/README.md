@@ -1,1 +1,1 @@
-# Laboratory work 5. Adaptation and calibration of speaker recognition systems
+# Laboratory work 5. Adaptation and calibration of speaker recognition system
