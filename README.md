@@ -4,7 +4,7 @@
 
 **Description:** the project is related to the development of labs for the ITMO Speaker Recognition Course.
 
-**Keywords:** voice biometrics, speaker recognition, acoustic features, speech activity detector, speaker embedding extractor, decision theory, domain adaptation and calibration.
+**Keywords:** voice biometrics, speaker recognition, speaker verification, speaker identification, acoustic features, speech activity detector, machine learning, speaker embedding extractor, deep neural network, decision theory, domain adaptation and calibration.
 
 **Datasets:** the main databases for performing of labs is [VoxCeleb corpus](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/).
 
