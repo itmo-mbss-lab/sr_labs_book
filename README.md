@@ -20,6 +20,6 @@
 
 **Some ideas for creating of labs** were borrowed [here](https://voicebiometry.org/) (training of voice activity detector model), [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training of calibration model for voice biometrics system). 
 
-**A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3087.pdf). 
+**A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3087.pdf). Publication date: 05/24/2022. 
 
-**A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw).
+**A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw). Publication date: 05/24/2022. 
