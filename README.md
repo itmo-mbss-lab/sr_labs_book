@@ -18,8 +18,8 @@
 - **Lab work 4.** Decision criteria and quality metrics                      ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab4)).
 - **Lab work 5.** Adaptation and calibration of speaker recognition system   ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab5)).
 
-**Some ideas for creating of labs** were borrowed [here](https://voicebiometry.org/) (training of voice activity detector model), [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training of calibration model for voice biometrics system).
+**Some ideas for creating of labs** were borrowed [here](https://voicebiometry.org/) (training of voice activity detector model), [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training of calibration model for voice biometrics system). 
 
-**A draft description of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw). 
+**A published version of these labs** (now only in russian language) can be found [here]([https://books.ifmo.ru/](https://books.ifmo.ru/file/pdf/3087.pdf)). 
 
-**A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/). 
+**A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw).
