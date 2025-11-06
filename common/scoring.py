@@ -44,7 +44,8 @@ def compute_scores(feats, lines):
         ref_feat = F.normalize(ref_feat, p=2, dim=1)
         com_feat = F.normalize(com_feat, p=2, dim=1)
 
-        dist = F.pairwise_distance(ref_feat.unsqueeze(-1), com_feat.unsqueeze(-1).transpose(0,2)).detach().cpu().numpy()
+        # dist = F.pairwise_distance(ref_feat.unsqueeze(-1), com_feat.unsqueeze(-1).transpose(0,2)).detach().cpu().numpy()
+        dist = torch.cdist(ref_feat, com_feat).detach().cpu().numpy()
 
         score = -1*numpy.mean(dist)
         
