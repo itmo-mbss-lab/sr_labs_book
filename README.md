@@ -1,6 +1,6 @@
 # ITMO Speaker Recognition Course
 
-**Authors:** Volokhov V., Lavrentyeva G., Novoselov S., Matveev Y.
+**Authors:** Volokhov V., Lavrentyeva G., Novoselov S., Matveev Y., Khmelev N., Zorkina A.
 
 **Description:** the project is related to the development of labs for the ITMO Speaker Recognition Course.
 
