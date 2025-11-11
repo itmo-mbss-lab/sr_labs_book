@@ -11,3 +11,5 @@ notebook
 matplotlib
 soundfile
 scikit-image
+tabulate
+intervaltree
