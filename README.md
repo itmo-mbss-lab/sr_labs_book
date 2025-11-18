@@ -10,7 +10,7 @@
 
 ![Fugure 1](https://analyticsindiamag.com/wp-content/uploads/2020/12/image.png "VoxCeleb. A large scale audio-visual dataset of human speech")
 
-**Content:** the repository contains materials (now only in russian language) for self-performing five labs. The titles of the labs are listed below.
+**Content:** the repository contains materials (now only in russian language) for self-performing seven labs. The titles of the labs are listed below.
 
 - **Lab work 1.** Informative features of speech signals: feature extraction           ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab1)).
 - **Lab work 2.** Voice activity detector training                                     ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab2)).
