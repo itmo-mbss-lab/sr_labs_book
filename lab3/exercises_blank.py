@@ -102,6 +102,8 @@ class test_dataset_loader(Dataset):
         return len(self.data_list)
 
 class MaxoutLinear(nn.Module):
+    # Maxout linear layer
+    
     def __init__(self, *args, **kwargs):
         
         super(MaxoutLinear, self).__init__()
@@ -215,6 +217,7 @@ class ResNet(nn.Module):
         return x
 
 class MainModel(nn.Module):
+    # Full computational graph including the neural network model and the cost function
 
     def __init__(self, model, trainfunc, **kwargs):
         super(MainModel, self).__init__();
