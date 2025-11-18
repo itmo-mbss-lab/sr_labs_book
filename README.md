@@ -12,13 +12,13 @@
 
 **Content:** the repository contains materials (now only in russian language) for self-performing five labs. The titles of the labs are listed below.
 
-- **Lab work 1.** Informative features of speech signals: feature extraction    ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab1)).
-- **Lab work 2.** Voice activity detector training                              ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab2)).
-- **Lab work 3.** Creating and comparing speaker models                         ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab3)).
-- **Lab work 4.** Decision criteria and quality metrics                         ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab4)).
-- **Lab work 5.** Adaptation and calibration of speaker recognition system      ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab5)).
-- **Lab work 6.** Training a speaker model block based on transformer pretrains ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab6)).
-- **Lab work 7.** Speaker diarization: "who spoke when?"                        ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab7)).
+- **Lab work 1.** Informative features of speech signals: feature extraction           ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab1)).
+- **Lab work 2.** Voice activity detector training                                     ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab2)).
+- **Lab work 3.** Creating and comparing speaker models                                ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab3)).
+- **Lab work 4.** Decision criteria and quality metrics                                ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab4)).
+- **Lab work 5.** Adaptation and calibration of speaker recognition system             ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab5)).
+- **Lab work 6.** Training speaker embedding extractors based on transformer pretrains ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab6)).
+- **Lab work 7.** Speaker diarization: "who spoke when?"                               ([link](https://github.com/itmo-mbss-lab/sr_labs_book/tree/main/lab7)).
 
 **Some ideas for creating of labs** were borrowed [here](https://voicebiometry.org/) (training of voice activity detector model), [here](https://github.com/clovaai/voxceleb_trainer) (training and testing of speaker embedding extractor) and [here](https://github.com/alumae/sv_score_calibration) (training of calibration model for voice biometrics system). 
 
