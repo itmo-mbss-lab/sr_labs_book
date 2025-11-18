@@ -1,1 +1,1 @@
-# Laboratory work 6. Training a speaker model block based on transformer pretrains
+# Laboratory work 6. Training speaker embedding extractors based on transformer pretrains

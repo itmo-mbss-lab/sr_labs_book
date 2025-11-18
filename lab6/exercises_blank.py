@@ -427,7 +427,7 @@ def test_network(test_loader, main_model):
     return (loss/counter, top1/counter)
 
 def tar_imp_hists(all_scores, all_labels):
-    # Function to compute target and impostor histogram
+    # Function to divide the scores into target and impostor scores
     
     tar_scores = []
     imp_scores = []
