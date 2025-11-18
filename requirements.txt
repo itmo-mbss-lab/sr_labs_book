@@ -13,3 +13,4 @@ soundfile
 scikit-image
 tabulate
 intervaltree
+openai-whisper==20230314
