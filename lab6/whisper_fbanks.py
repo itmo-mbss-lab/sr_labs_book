@@ -7,7 +7,6 @@ import torch
 import torchaudio
 import torch.nn.functional as F
 import torch.nn as nn
-from torch_audiomentations.core.transforms_interface import BaseWaveformTransform
 
 from whisper.audio import (
     N_SAMPLES,
@@ -76,7 +75,7 @@ def log_mel_spectrogram(audio: torch.Tensor, n_mels: int = N_MELS,):
     
     return log_spec
 
-class ExtractWhisperFbanks80(BaseWaveformTransform):
+class ExtractWhisperFbanks80(nn.Module):
     # Extract Whisper's acoustic features
     
     def __init__(self, pad_data) -> None:
@@ -103,11 +102,11 @@ class ExtractWhisperFbanks80(BaseWaveformTransform):
                 orig_freq=sample_rate, new_freq=16_000
             )(samples)
 
+        samples = torch.unsqueeze(samples, 1)
         samples = self.instance_norm(samples)
+        samples = torch.squeeze(samples, 1)
+        
+        for preprocess in self.pipeline:
+            samples = preprocess(samples)
 
-        if len(samples.shape) >= 2:
-            samples = samples.squeeze()
-        for preocess in self.pipeline:
-            samples = preocess(samples)
-
-        return samples #.unsqueeze(0)
+        return samples
