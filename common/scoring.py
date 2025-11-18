@@ -12,6 +12,8 @@ import tqdm
 def extract_features(model, test_loader):
     # Extract features for every waveform
 
+    model.eval()
+    
     feats = {}
 
     for idx, data in enumerate(test_loader):
