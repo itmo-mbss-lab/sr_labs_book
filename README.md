@@ -8,7 +8,6 @@
 
 **Datasets:** the main databases for performing of labs is [VoxCeleb corpus](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/).
 
-![Fugure 1](https://analyticsindiamag.com/wp-content/uploads/2020/12/image.png "VoxCeleb. A large scale audio-visual dataset of human speech")
 ![Fugure 1](https://raw.githubusercontent.com/itmo-mbss-lab/sr_labs_book/refs/heads/main/images/voxceleb_dataset.png "VoxCeleb. A large scale audio-visual dataset of human speech")
 
 **Content:** the repository contains materials (now only in russian language) for self-performing seven labs. The titles of the labs are listed below.
