@@ -60,4 +60,4 @@
 
 **Technical talks** on the topic of voice biometrics are presented below. 
 
-- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, 2026 ([link](https://disk.yandex.ru/i/F-5TQ9zRVwp0Mg)).
+- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, 2026 ([draft](https://disk.yandex.ru/i/F-5TQ9zRVwp0Mg)).
