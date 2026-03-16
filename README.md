@@ -57,3 +57,7 @@
 **A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3087.pdf). Publication date: 05/24/2022. 
 
 **A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw). Publication date: 05/24/2022. 
+
+**Technical talks** on the topic of voice biometrics are presented below. 
+
+Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications -- DSPA-2026, Moscow, 2026 ([link](https://disk.yandex.ru/i/F-5TQ9zRVwp0Mg)).
