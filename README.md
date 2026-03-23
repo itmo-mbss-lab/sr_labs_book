@@ -61,4 +61,4 @@
 **Technical talks** on the topic of voice biometrics are presented below. 
 
 - Novoselov S. Speaker verification: history and state-of-the-art // NTR Labs Webinar, Online, 2022 ([link](https://ntr.ai/webinar/nauchno-tehnicheskij-vebinar-verifikacziya-diktorov-po-golosu-istoriya-i-sovremennoe-sostoyanie/)).
-- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, 2026 ([link](https://disk.yandex.ru/i/kETFxyS0MmZPVw)).
+- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, 2026 ([link](https://disk.yandex.ru/d/prpA96ti7CJNGw)).
