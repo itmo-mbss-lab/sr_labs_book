@@ -58,7 +58,8 @@
 
 **A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw). Publication date: 05/24/2022. 
 
-**Technical talks** on the topic of voice biometrics are presented below. 
+**Technical talks** and **speaking at conferences** on the topic of voice biometrics are presented below. 
 
+- Novoselov S. On deep speaker embeddings for text-independent speaker recognition // Odyssey 2018 The Speaker and Language Recognition Workshop, Les Sables-d'Olonne, France, 2018 ([link](https://umotion.univ-lemans.fr/informatique/2018-odyssey/video/3652-odyssey-2018-on-deep-speaker-embeddings-for-text-independent-speaker-recognition/)).
 - Novoselov S. Speaker verification: history and state-of-the-art // NTR Labs Webinar, Online, 2022 ([link](https://ntr.ai/webinar/nauchno-tehnicheskij-vebinar-verifikacziya-diktorov-po-golosu-istoriya-i-sovremennoe-sostoyanie/)).
-- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, 2026 ([link](https://disk.yandex.ru/d/prpA96ti7CJNGw)).
+- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, Russia, 2026 ([link](https://disk.yandex.ru/d/prpA96ti7CJNGw)).
