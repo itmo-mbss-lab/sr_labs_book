@@ -50,7 +50,7 @@
 - **Lesson 10.** Review of lecture 7 and lab work 4   ([link](https://disk.yandex.ru/i/H5oZt86DZAW2cA)).
 - **Lesson 11.** Review of lecture 8                  ([link](https://disk.yandex.ru/i/ospacUMfH0VJ-w)).
 - **Lesson 12.** Review of lecture 8 and lab work 5   ([link](https://disk.yandex.ru/i/oWoZBnPCz_hvMw)).
-- **Lesson 13.** Review of lecture 9                  ([link](https://disk.yandex.ru/i/yi2MVO1NhWIPiQ)).
+- **Lesson 13.** Review of lecture 9                  ([link](https://disk.yandex.ru/i/DygM9pksQ2Ryew)).
 - **Lesson 14.** Review of lecture 10                 ([link](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
 - **Lesson 15.** Review of lecture 11                 ([link 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [link 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [link 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
 
