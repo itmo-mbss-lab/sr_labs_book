@@ -32,8 +32,8 @@
 - **Lecture 6.** Comparison of speaker models                                       ([link](https://disk.yandex.ru/i/6b_HbKwU8uMVHA)).
 - **Lecture 7.** Decision criteria. Quality assessment of biometric systems         ([link](https://disk.yandex.ru/i/sLp1dxME5pyM6Q)).
 - **Lecture 8.** Domain adaptation. Calibration of voice biometric systems          ([link](https://disk.yandex.ru/i/pn1zYCXppRBiDw)).
-- **Lecture 9.** Where to go next?                                                  ([link](https://disk.yandex.ru/i/UNCgcUSwItgyjQ)).
-- **Lecture 10.** Speaker diarization                                               ([link](https://disk.yandex.ru/i/-gFJ54A5MiC-JQ)).
+- **Lecture 9.** Speaker diarization                                                ([link](https://disk.yandex.ru/i/sN8_Ca9qazQJxw)).
+- **Lecture 10.** Where to go next?                                                 ([link](https://disk.yandex.ru/i/p0zOH2se8fg8Bg)).
 - **Lecture 11.** Training neural network speaker models from transformer pretrains ([link](https://disk.yandex.ru/i/wIc8yqQlnAVgRQ)).
 
 **Video lectures of the course** on the course are presented below. 
@@ -50,8 +50,8 @@
 - **Lesson 10.** Review of lecture 7 and lab work 4   ([link](https://disk.yandex.ru/i/H5oZt86DZAW2cA)).
 - **Lesson 11.** Review of lecture 8                  ([link](https://disk.yandex.ru/i/ospacUMfH0VJ-w)).
 - **Lesson 12.** Review of lecture 8 and lab work 5   ([link](https://disk.yandex.ru/i/oWoZBnPCz_hvMw)).
-- **Lesson 13.** Review of lecture 9                  ([link](https://disk.yandex.ru/i/hK4Z0E7pbpooeQ)).
-- **Lesson 14.** Review of lecture 10                 ([link](https://disk.yandex.ru/i/yi2MVO1NhWIPiQ)).
+- **Lesson 13.** Review of lecture 9                  ([link](https://disk.yandex.ru/i/yi2MVO1NhWIPiQ)).
+- **Lesson 14.** Review of lecture 10                 ([link](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
 - **Lesson 15.** Review of lecture 11                 ([link 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [link 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [link 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
 
 **A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3087.pdf). Publication date: 05/24/2022. 
