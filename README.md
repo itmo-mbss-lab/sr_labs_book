@@ -62,4 +62,4 @@
 
 - Novoselov S. On deep speaker embeddings for text-independent speaker recognition // Odyssey 2018 The Speaker and Language Recognition Workshop, Les Sables-d'Olonne, France, 2018 ([link](https://umotion.univ-lemans.fr/informatique/2018-odyssey/video/3652-odyssey-2018-on-deep-speaker-embeddings-for-text-independent-speaker-recognition/)).
 - Novoselov S. Speaker verification: history and state-of-the-art // NTR Labs Webinar, Online, 2022 ([link](https://ntr.ai/webinar/nauchno-tehnicheskij-vebinar-verifikacziya-diktorov-po-golosu-istoriya-i-sovremennoe-sostoyanie/)).
-- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, Russia, 2026 ([link](https://disk.yandex.ru/d/prpA96ti7CJNGw)).
+- Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, Russia, 2026 ([slides](https://disk.yandex.ru/d/prpA96ti7CJNGw), [video](https://disk.yandex.ru/i/od7Ry4cwCK6m-g)).
