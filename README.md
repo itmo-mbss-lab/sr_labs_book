@@ -30,7 +30,7 @@
 
 - **Lecture 1.** Introduction to voice biometrics                                   ([slides](https://disk.yandex.ru/i/XLZRbdnMTjZk7g)).
 - **Lecture 2.** Preprocessing of speech signals. Part 1                            ([slides](https://disk.yandex.ru/i/jlT7_SttB5jb4w)).
-- **Lecture 3.** Preprocessing of speech signals. Part 2                            ([slides 1](https://disk.yandex.ru/i/2i9yWRRaMbKf4Q), [link 2](https://disk.yandex.ru/i/y3IqRtSXyfqxAw)).
+- **Lecture 3.** Preprocessing of speech signals. Part 2                            ([slides 1](https://disk.yandex.ru/i/2i9yWRRaMbKf4Q), [slides 2](https://disk.yandex.ru/i/y3IqRtSXyfqxAw)).
 - **Lecture 4.** Classical methods of constructing speaker models                   ([slides](https://disk.yandex.ru/i/lq4pkh-s86BiyQ)).
 - **Lecture 5.** Modern methods of constructing speaker models                      ([slides](https://disk.yandex.ru/i/Wd7xFEQ9m7YeNA)).
 - **Lecture 6.** Comparison of speaker models                                       ([slides](https://disk.yandex.ru/i/6b_HbKwU8uMVHA)).
