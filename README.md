@@ -28,35 +28,35 @@
 
 **Presentations of lectures** on the course are presented below. 
 
-- **Lecture 1.** Introduction to voice biometrics                                   ([link](https://disk.yandex.ru/i/XLZRbdnMTjZk7g)).
-- **Lecture 2.** Preprocessing of speech signals. Part 1                            ([link](https://disk.yandex.ru/i/jlT7_SttB5jb4w)).
-- **Lecture 3.** Preprocessing of speech signals. Part 2                            ([link 1](https://disk.yandex.ru/i/2i9yWRRaMbKf4Q), [link 2](https://disk.yandex.ru/i/y3IqRtSXyfqxAw)).
-- **Lecture 4.** Classical methods of constructing speaker models                   ([link](https://disk.yandex.ru/i/lq4pkh-s86BiyQ)).
-- **Lecture 5.** Modern methods of constructing speaker models                      ([link](https://disk.yandex.ru/i/Wd7xFEQ9m7YeNA)).
-- **Lecture 6.** Comparison of speaker models                                       ([link](https://disk.yandex.ru/i/6b_HbKwU8uMVHA)).
-- **Lecture 7.** Decision criteria. Quality assessment of biometric systems         ([link](https://disk.yandex.ru/i/sLp1dxME5pyM6Q)).
-- **Lecture 8.** Domain adaptation. Calibration of voice biometric systems          ([link](https://disk.yandex.ru/i/pn1zYCXppRBiDw)).
-- **Lecture 9.** Speaker diarization                                                ([link](https://disk.yandex.ru/i/sN8_Ca9qazQJxw)).
-- **Lecture 10.** Where to go next?                                                 ([link](https://disk.yandex.ru/i/p0zOH2se8fg8Bg)).
-- **Lecture 11.** Training neural network speaker models from transformer pretrains ([link](https://disk.yandex.ru/i/wIc8yqQlnAVgRQ)).
+- **Lecture 1.** Introduction to voice biometrics                                   ([slides](https://disk.yandex.ru/i/XLZRbdnMTjZk7g)).
+- **Lecture 2.** Preprocessing of speech signals. Part 1                            ([slides](https://disk.yandex.ru/i/jlT7_SttB5jb4w)).
+- **Lecture 3.** Preprocessing of speech signals. Part 2                            ([slides 1](https://disk.yandex.ru/i/2i9yWRRaMbKf4Q), [link 2](https://disk.yandex.ru/i/y3IqRtSXyfqxAw)).
+- **Lecture 4.** Classical methods of constructing speaker models                   ([slides](https://disk.yandex.ru/i/lq4pkh-s86BiyQ)).
+- **Lecture 5.** Modern methods of constructing speaker models                      ([slides](https://disk.yandex.ru/i/Wd7xFEQ9m7YeNA)).
+- **Lecture 6.** Comparison of speaker models                                       ([slides](https://disk.yandex.ru/i/6b_HbKwU8uMVHA)).
+- **Lecture 7.** Decision criteria. Quality assessment of biometric systems         ([slides](https://disk.yandex.ru/i/sLp1dxME5pyM6Q)).
+- **Lecture 8.** Domain adaptation. Calibration of voice biometric systems          ([slides](https://disk.yandex.ru/i/pn1zYCXppRBiDw)).
+- **Lecture 9.** Speaker diarization                                                ([slides](https://disk.yandex.ru/i/sN8_Ca9qazQJxw)).
+- **Lecture 10.** Where to go next?                                                 ([slides](https://disk.yandex.ru/i/p0zOH2se8fg8Bg)).
+- **Lecture 11.** Training neural network speaker models from transformer pretrains ([slides](https://disk.yandex.ru/i/wIc8yqQlnAVgRQ)).
 
 **Video lectures of the course** on the course are presented below. 
 
-- **Lesson 1.** Review of lecture 1                      ([link](https://disk.yandex.ru/i/8NPVgp-OoLkgxQ)).
-- **Lesson 2.** Review of lecture 1                      ([link](https://disk.yandex.ru/i/BTfxr0KfhqZQcA)).
-- **Lesson 3.** Review of lecture 1, 2 and lab work 1    ([link 1](https://disk.yandex.ru/i/lBDkiXnhWTESLw), [link 2](https://disk.yandex.ru/i/QKyrIKrT3aKMyA)).
-- **Lesson 4.** Review of lecture 3                      ([link](https://disk.yandex.ru/i/cB0lxDyyTUmf3g)).
-- **Lesson 5.** Review of lecture 4 and lab work 2       ([link](https://disk.yandex.ru/i/nanwr3H9lgILbQ)).
-- **Lesson 6.** Review of lecture 4                      ([link](https://disk.yandex.ru/i/UJzGND2jiv-_yQ)).
-- **Lesson 7.** Review of lecture 5                      ([link](https://disk.yandex.ru/i/ypyxRBaY5GBZ-w)).
-- **Lesson 8.** Review of lecture 5                      ([link](https://disk.yandex.ru/i/fOnioq7UFOD_Pg)).
-- **Lesson 9.** Review of lecture 6, 7 and lab work 3, 7 ([link 1](https://disk.yandex.ru/i/lV1ElqLJb4Xx1A), [link 2](https://disk.yandex.ru/i/MrO7WaWxETX_xg)).
-- **Lesson 10.** Review of lecture 7 and lab work 4, 6   ([link 1](https://disk.yandex.ru/i/H5oZt86DZAW2cA), [link 2](https://disk.yandex.ru/i/O2njfOzip7xOUA)).
-- **Lesson 11.** Review of lecture 8                     ([link](https://disk.yandex.ru/i/ospacUMfH0VJ-w)).
-- **Lesson 12.** Review of lecture 8 and lab work 5      ([link](https://disk.yandex.ru/i/oWoZBnPCz_hvMw)).
-- **Lesson 13.** Review of lecture 9                     ([link](https://disk.yandex.ru/i/DygM9pksQ2Ryew)).
-- **Lesson 14.** Review of lecture 10                    ([link](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
-- **Lesson 15.** Review of lecture 11                    ([link 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [link 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [link 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
+- **Lesson 1.** Review of lecture 1                      ([video](https://disk.yandex.ru/i/8NPVgp-OoLkgxQ)).
+- **Lesson 2.** Review of lecture 1                      ([video](https://disk.yandex.ru/i/BTfxr0KfhqZQcA)).
+- **Lesson 3.** Review of lecture 1, 2 and lab work 1    ([video 1](https://disk.yandex.ru/i/lBDkiXnhWTESLw), [video 2](https://disk.yandex.ru/i/QKyrIKrT3aKMyA)).
+- **Lesson 4.** Review of lecture 3                      ([video](https://disk.yandex.ru/i/cB0lxDyyTUmf3g)).
+- **Lesson 5.** Review of lecture 4 and lab work 2       ([video](https://disk.yandex.ru/i/nanwr3H9lgILbQ)).
+- **Lesson 6.** Review of lecture 4                      ([video](https://disk.yandex.ru/i/UJzGND2jiv-_yQ)).
+- **Lesson 7.** Review of lecture 5                      ([video](https://disk.yandex.ru/i/ypyxRBaY5GBZ-w)).
+- **Lesson 8.** Review of lecture 5                      ([video](https://disk.yandex.ru/i/fOnioq7UFOD_Pg)).
+- **Lesson 9.** Review of lecture 6, 7 and lab work 3, 7 ([video 1](https://disk.yandex.ru/i/lV1ElqLJb4Xx1A), [video 2](https://disk.yandex.ru/i/MrO7WaWxETX_xg)).
+- **Lesson 10.** Review of lecture 7 and lab work 4, 6   ([video 1](https://disk.yandex.ru/i/H5oZt86DZAW2cA), [video 2](https://disk.yandex.ru/i/O2njfOzip7xOUA)).
+- **Lesson 11.** Review of lecture 8                     ([video](https://disk.yandex.ru/i/ospacUMfH0VJ-w)).
+- **Lesson 12.** Review of lecture 8 and lab work 5      ([video](https://disk.yandex.ru/i/oWoZBnPCz_hvMw)).
+- **Lesson 13.** Review of lecture 9                     ([video](https://disk.yandex.ru/i/DygM9pksQ2Ryew)).
+- **Lesson 14.** Review of lecture 10                    ([video](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
+- **Lesson 15.** Review of lecture 11                    ([video 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [video 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [video 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
 
 **Technical talks** and **speaking at conferences** on the topic of voice biometrics are presented below. 
 
