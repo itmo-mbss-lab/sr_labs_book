@@ -50,7 +50,7 @@
 - **Lesson 6.** Review of lecture 4                      ([link](https://disk.yandex.ru/i/UJzGND2jiv-_yQ)).
 - **Lesson 7.** Review of lecture 5                      ([link](https://disk.yandex.ru/i/ypyxRBaY5GBZ-w)).
 - **Lesson 8.** Review of lecture 5                      ([link](https://disk.yandex.ru/i/fOnioq7UFOD_Pg)).
-- **Lesson 9.** Review of lecture 6, 7 and lab work 3, 7 ([link 1](https://disk.yandex.ru/i/lV1ElqLJb4Xx1A), [link 2](https://disk.yandex.ru/i/lV1ElqLJb4Xx1A)).
+- **Lesson 9.** Review of lecture 6, 7 and lab work 3, 7 ([link 1](https://disk.yandex.ru/i/lV1ElqLJb4Xx1A), [link 2](https://disk.yandex.ru/i/MrO7WaWxETX_xg)).
 - **Lesson 10.** Review of lecture 7 and lab work 4, 6   ([link 1](https://disk.yandex.ru/i/H5oZt86DZAW2cA), [link 2](https://disk.yandex.ru/i/O2njfOzip7xOUA)).
 - **Lesson 11.** Review of lecture 8                     ([link](https://disk.yandex.ru/i/ospacUMfH0VJ-w)).
 - **Lesson 12.** Review of lecture 8 and lab work 5      ([link](https://disk.yandex.ru/i/oWoZBnPCz_hvMw)).
