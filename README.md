@@ -44,7 +44,7 @@
 
 - **Lesson 1.** Review of lecture 1                   ([link](https://disk.yandex.ru/i/8NPVgp-OoLkgxQ)).
 - **Lesson 2.** Review of lecture 1                   ([link](https://disk.yandex.ru/i/BTfxr0KfhqZQcA)).
-- **Lesson 3.** Review of lecture 2 and lab work 1    ([link 1](https://disk.yandex.ru/i/lBDkiXnhWTESLw), [link 2](https://disk.yandex.ru/i/QKyrIKrT3aKMyA)).
+- **Lesson 3.** Review of lecture 1, 2 and lab work 1    ([link 1](https://disk.yandex.ru/i/lBDkiXnhWTESLw), [link 2](https://disk.yandex.ru/i/QKyrIKrT3aKMyA)).
 - **Lesson 4.** Review of lecture 3                   ([link](https://disk.yandex.ru/i/cB0lxDyyTUmf3g)).
 - **Lesson 5.** Review of lecture 4 and lab work 2    ([link](https://disk.yandex.ru/i/nanwr3H9lgILbQ)).
 - **Lesson 6.** Review of lecture 4                   ([link](https://disk.yandex.ru/i/UJzGND2jiv-_yQ)).
