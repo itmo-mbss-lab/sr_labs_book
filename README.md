@@ -63,3 +63,13 @@
 - Novoselov S. On deep speaker embeddings for text-independent speaker recognition // Odyssey 2018 The Speaker and Language Recognition Workshop, Les Sables-d'Olonne, France, 2018 ([video](https://umotion.univ-lemans.fr/informatique/2018-odyssey/video/3652-odyssey-2018-on-deep-speaker-embeddings-for-text-independent-speaker-recognition/)).
 - Novoselov S. Speaker verification: history and state-of-the-art // NTR Labs Webinar, Online, 2022 ([slides and video](https://ntr.ai/webinar/nauchno-tehnicheskij-vebinar-verifikacziya-diktorov-po-golosu-istoriya-i-sovremennoe-sostoyanie/)).
 - Volokhov V. Current trends in the development of voice biometrics // 28th Int. Conf. Digital Signal Processing and its Applications — DSPA-2026, Moscow, Russia, 2026 ([slides](https://disk.yandex.ru/d/prpA96ti7CJNGw), [video](https://disk.yandex.ru/i/od7Ry4cwCK6m-g), [subtitles](https://disk.yandex.ru/d/qTNoCkiYeLpz5g), [proceedings](http://dspa-conf.org/storage/Proceedings/DSPA2026_RNTORES_PROCEEDINGS.pdf)).
+
+**Courses on related topics** are presented below. 
+
+- Vetterli M., Prandoni P. Digital signal processing specialization, EPFL / Coursera ([link](https://www.coursera.org/specializations/digital-signal-processing)).
+- Bäckström T. et al. Introduction to speech processing, Aalto University ([link](https://speechprocessingbook.aalto.fi/)).
+- Markovich A. et al. Deep learning for audio, HSE Faculty of Computer Science ([link](https://github.com/markovka17/dla)).
+- Severilov P., Knyazev D., Vlasov R. Deep learning for audio course, AI Masters / MIPT, ([link](https://github.com/severilov/DL-Audio-AIMasters-Course)).
+- Voita E. YSDA natural language processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/nlp_course)).
+- Jurafsky D., Martin J. H. Speech and language processing: an introduction to natural language processing, computational linguistics, and speech recognition with language models, Stanford University ([link](https://web.stanford.edu/~jurafsky/slp3/)).
+- Borovik I. Speech synthesis and voice cloning course, Skoltech ISP’25 ([link](https://github.com/ilya16/speech-synthesis-course)).
