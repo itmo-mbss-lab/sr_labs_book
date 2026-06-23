@@ -72,4 +72,5 @@
 - Severilov P., Knyazev D., Vlasov R. Deep learning for audio course, AI Masters / MIPT, ([link](https://github.com/severilov/DL-Audio-AIMasters-Course)).
 - Voita E. YSDA natural language processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/nlp_course)).
 - Jurafsky D., Martin J. H. Speech and language processing: an introduction to natural language processing, computational linguistics, and speech recognition with language models, Stanford University ([link](https://web.stanford.edu/~jurafsky/slp3/)).
+- King S. Speech synthesis, University of Edinburgh / speech.zone ([link](https://speech.zone/courses/speech-synthesis/)).
 - Borovik I. Speech synthesis and voice cloning course, Skoltech ISP’25 ([link](https://github.com/ilya16/speech-synthesis-course)).
