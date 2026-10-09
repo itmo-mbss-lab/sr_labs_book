@@ -73,8 +73,8 @@
 - Malinin A. et al. YSDA speech processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/speech_course)).
 - Markovich A. et al. Deep learning for audio, HSE Faculty of Computer Science ([link](https://github.com/markovka17/dla)).
 - Severilov P., Knyazev D., Vlasov R. Deep learning for audio course, AI Masters / MIPT, ([link](https://github.com/severilov/DL-Audio-AIMasters-Course)).
-- Wang Q. Speaker Recognition, Udemy ([link](https://www.udemy.com/course/speaker-recognition/)).
-- Wang Q., Zhang C. A Tutorial on Speaker Diarization, Udemy ([link](https://www.udemy.com/course/speaker-diarization/)).
+- Wang Q. Speaker recognition, Udemy ([link](https://www.udemy.com/course/speaker-recognition/)).
+- Wang Q., Zhang C. A tutorial on speaker diarization, Udemy ([link](https://www.udemy.com/course/diarization/)).
 - Voita E. YSDA natural language processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/nlp_course)).
 - Jurafsky D., Martin J. H. Speech and language processing: an introduction to natural language processing, computational linguistics, and speech recognition with language models, Stanford University ([link](https://web.stanford.edu/~jurafsky/slp3/)).
 - Maas A. et al. Spoken Language Processing, Stanford University ([link](https://web.stanford.edu/class/cs224s/index.html)).
