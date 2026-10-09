@@ -70,11 +70,14 @@
 - Vetterli M., Prandoni P. Digital signal processing specialization, EPFL / Coursera ([link](https://www.coursera.org/specializations/digital-signal-processing)).
 - Bäckström T. et al. Introduction to speech processing, Aalto University ([link](https://speechprocessingbook.aalto.fi/)).
 - Magimai-Doss M. Automatic Speech Processing, EPFL ([link](https://edu.epfl.ch/coursebook/en/automatic-speech-processing-EE-554)).
+- Malinin A. et al. YSDA speech processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/speech_course)).
 - Markovich A. et al. Deep learning for audio, HSE Faculty of Computer Science ([link](https://github.com/markovka17/dla)).
 - Severilov P., Knyazev D., Vlasov R. Deep learning for audio course, AI Masters / MIPT, ([link](https://github.com/severilov/DL-Audio-AIMasters-Course)).
+- Wang Q. Speaker Recognition, Udemy ([link](https://www.udemy.com/course/speaker-recognition/)).
+- Wang Q., Zhang C. A Tutorial on Speaker Diarization, Udemy ([link](https://www.udemy.com/course/speaker-diarization/)).
 - Voita E. YSDA natural language processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/nlp_course)).
 - Jurafsky D., Martin J. H. Speech and language processing: an introduction to natural language processing, computational linguistics, and speech recognition with language models, Stanford University ([link](https://web.stanford.edu/~jurafsky/slp3/)).
-- King S. Speech synthesis, University of Edinburgh / speech.zone ([link](https://speech.zone/courses/speech-synthesis/)).
-- Borovik I. Speech synthesis and voice cloning course, Skoltech ISP’25 ([link](https://github.com/ilya16/speech-synthesis-course)).
 - Maas A. et al. Spoken Language Processing, Stanford University ([link](https://web.stanford.edu/class/cs224s/index.html)).
 - Hirschberg J. Advanced Spoken Language Processing, Columbia University ([link](https://www.cs.columbia.edu/~julia/courses/CS6706-26/syllabus26.html)).
+- King S. Speech synthesis, University of Edinburgh / speech.zone ([link](https://speech.zone/courses/speech-synthesis/)).
+- Borovik I. Speech synthesis and voice cloning course, Skoltech ISP’25 ([link](https://github.com/ilya16/speech-synthesis-course)).
