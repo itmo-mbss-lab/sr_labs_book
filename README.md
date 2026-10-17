@@ -58,6 +58,8 @@
 - **Lesson 14.** Review of lecture 10                    ([video](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
 - **Lesson 15.** Review of lecture 11                    ([video 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [video 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [video 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
 
+Video recordings of the course lessons are also available on [YouTube](https://www.youtube.com/playlist?list=PLDH9YGRrmXqg).
+
 **Technical talks** and **speaking at conferences** on the topic of voice biometrics are presented below. 
 
 - Novoselov S. On deep speaker embeddings for text-independent speaker recognition // Odyssey 2018 The Speaker and Language Recognition Workshop, Les Sables-d'Olonne, France, 2018 ([video](https://umotion.univ-lemans.fr/informatique/2018-odyssey/video/3652-odyssey-2018-on-deep-speaker-embeddings-for-text-independent-speaker-recognition/)).
