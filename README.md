@@ -40,7 +40,7 @@
 - **Lecture 10.** Where to go next?                                                 ([slides](https://disk.yandex.ru/i/p0zOH2se8fg8Bg)).
 - **Lecture 11.** Training neural network speaker models from transformer pretrains ([slides](https://disk.yandex.ru/i/wIc8yqQlnAVgRQ)).
 
-**Video lectures of the course** on the course are presented below. 
+**Video recordings of the course lessons** are available on Yandex Disk and are listed below. 
 
 - **Lesson 1.** Review of lecture 1                      ([video](https://disk.yandex.ru/i/8NPVgp-OoLkgxQ)).
 - **Lesson 2.** Review of lecture 1                      ([video](https://disk.yandex.ru/i/BTfxr0KfhqZQcA)).
