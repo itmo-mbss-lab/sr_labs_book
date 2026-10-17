@@ -58,7 +58,7 @@
 - **Lesson 14.** Review of lecture 10                    ([video](https://disk.yandex.ru/i/luQHNOGAc7rTsg)).
 - **Lesson 15.** Review of lecture 11                    ([video 1](https://disk.yandex.ru/i/-HoaGBjHU6z-TA), [video 2](https://disk.yandex.ru/i/cuTFtdSDfCyFeQ), [video 3](https://disk.yandex.ru/i/2iotTvwNyIVzeg)).
 
-Video recordings of the course lessons are also available on [YouTube](https://www.youtube.com/playlist?list=PLDH9YGRrmXqg).
+Video recordings of the course lessons are also available on [YouTube](https://www.youtube.com/playlist?list=PLDH9YGRrmXqg) and [VK Video](https://vkvideo.ru/playlist/-242376518_1). 
 
 **Technical talks** and **speaking at conferences** on the topic of voice biometrics are presented below. 
 
