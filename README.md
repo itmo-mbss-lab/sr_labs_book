@@ -24,7 +24,7 @@
 
 **A published version of these labs** (now only in russian language) can be found [here](https://books.ifmo.ru/file/pdf/3087.pdf). Publication date: 05/24/2022. 
 
-**A latest updated version of these labs** (now only in russian language) can be found [here](https://disk.yandex.ru/i/-jFmJ9eXyPNXCw). Publication date: 05/24/2022. 
+**A latest updated version of these labs** (now only in russian language) can be found [here](https://github.com/itmo-mbss-lab/sr_labs_book/blob/main/sr_labs_book.pdf). Publication date: 05/24/2022. 
 
 **Presentations of lectures** on the course are presented below. 
 
