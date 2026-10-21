@@ -77,6 +77,7 @@ Video recordings of the course lessons are also available on [YouTube](https://w
 - Malinin A. et al. YSDA speech processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/speech_course)).
 - Markovich A. et al. Deep learning for audio, HSE Faculty of Computer Science ([link](https://github.com/markovka17/dla)).
 - Severilov P., Knyazev D., Vlasov R. Deep learning for audio course, AI Masters / MIPT, ([link](https://github.com/severilov/DL-Audio-AIMasters-Course)).
+- Gospodinov G. et al. Speech technology, MIPT, ([link](https://github.com/georgygospodinov/speech_course)).
 - Wang Q. Speaker recognition, Udemy ([link](https://www.udemy.com/course/speaker-recognition/)).
 - Wang Q., Zhang C. A tutorial on speaker diarization, Udemy ([link](https://www.udemy.com/course/diarization/)).
 - Voita E. YSDA natural language processing course, Yandex School of Data Analysis ([link](https://github.com/yandexdataschool/nlp_course)).
