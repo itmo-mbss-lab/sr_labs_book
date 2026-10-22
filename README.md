@@ -2,7 +2,7 @@
 
 **Authors:** Volokhov V., Lavrentyeva G., Novoselov S., Matveev Y., Khmelev N., Zorkina A.
 
-**Description:** the ITMO Speaker Recognition Online Course is a free educational course covering classical and modern methods of speaker recognition. The course provides video lectures, lecture materials, and practical laboratory assignments.
+**Description:** the ITMO Speaker Recognition Online Course is a free educational course covering classical and modern methods of speaker recognition. The course provides video lectures, lecture materials, and practical laboratory assignments (Python/PyTorch).
 
 **Keywords:** voice biometrics, speaker recognition, speaker verification, speaker identification, acoustic features, speech activity detector, machine learning, speaker embedding extractor, deep neural network, decision theory, domain adaptation and calibration.
 
