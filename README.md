@@ -86,3 +86,4 @@ Video recordings of the course lessons are also available on [YouTube](https://w
 - Hirschberg J. Advanced spoken language processing, Columbia University ([link](https://www.cs.columbia.edu/~julia/courses/CS6706-26/syllabus26.html)).
 - King S. Speech synthesis, University of Edinburgh / speech.zone ([link](https://speech.zone/courses/speech-synthesis/)).
 - Borovik I. Speech synthesis and voice cloning course, Skoltech ISP’25 ([link](https://github.com/ilya16/speech-synthesis-course)).
+- Rybin S., Chirkovsky A. Speech synthesis, ITMO University ([link](https://github.com/Arbaletos/tts_labs_itmo/)).
